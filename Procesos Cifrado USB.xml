@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Participants xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.wfmc.org/2009/XPDL2.2">
+  <Participant Id="951c4f46-cf46-436f-bb07-9dbd23bddc65" Name="Interfaz gui">
+    <ParticipantType Type="ROLE" />
+    <Description>Interfaz</Description>
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="Interfazgui" />
+    </ExtendedAttributes>
+  </Participant>
+  <Participant Id="0bf0e37e-476e-4954-a5e2-d7fc2a979d42" Name="Motor criptografico">
+    <ParticipantType Type="ROLE" />
+    <Description />
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="Motorcriptografico" />
+    </ExtendedAttributes>
+  </Participant>
+  <Participant Id="a518eda6-025c-40ce-9624-2f08799bc969" Name="Sistema operativo">
+    <ParticipantType Type="ROLE" />
+    <Description />
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="Sistemaoperativo" />
+    </ExtendedAttributes>
+  </Participant>
+  <Participant Id="373f2995-e7df-4083-8dd9-c05099af8945" Name="Usuario">
+    <ParticipantType Type="ROLE" />
+    <Description>usuario</Description>
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="Usuario" />
+    </ExtendedAttributes>
+  </Participant>
+</Participants>
